@@ -1,0 +1,12 @@
+#square{
+    height: 38px;
+    width: 80px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    background-color: rgba(0, 0, 255, 0.5);
+}
+#playRoom{
+    background-color: white;
+    height: 600px;
+    width: 100%;
+}
